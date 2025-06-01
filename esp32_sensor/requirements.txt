@@ -1,0 +1,2 @@
+# Requisitos para simulação ESP32 no projeto Global Solution
+# Apenas informativo, pois a simulação roda no Wokwi.com

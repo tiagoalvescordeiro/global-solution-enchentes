@@ -9,5 +9,5 @@ void loop() {
   int umidade = analogRead(SENSOR_PIN);
   Serial.print("Umidade do solo: ");
   Serial.println(umidade);
-  delay(1000);
+  delay(1000); // Espera 1 segundo
 }
